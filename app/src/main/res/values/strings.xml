@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MovieCatalogue</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="movies">Movies</string>
+    <string name="tv_show">Tv show</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="popular">Popular</string>
+    <string name="imageview">Imageview</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">April, 26 2003</string>
+    <string name="popular">Popular</string>
+</resources>
